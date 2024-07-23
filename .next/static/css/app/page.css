@@ -1,0 +1,31 @@
+/*!***************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ../node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[2]!../node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[3]!./components/Accueil.module.css ***!
+  \***************************************************************************************************************************************************************************************************************************************************************************/
+.Accueil_welcome__nsxYc {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    justify-content: center;
+    padding: 6rem;
+    min-height: 100vh;
+    color: var(--first-color);
+    font-size: var(--big-font-size);
+  }
+/*!****************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ../node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[2]!../node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[3]!./components/Citation.module.css ***!
+  \****************************************************************************************************************************************************************************************************************************************************************************/
+.Citation_citation__nONOw {
+    font-style: italic;
+}
+.Citation_auteur___vaz8 {
+    font-weight: bold;
+    margin-bottom: 1rem;
+}
+/*!*************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ../node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[2]!../node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[3]!./components/Timer.module.css ***!
+  \*************************************************************************************************************************************************************************************************************************************************************************/
+.Timer_timer__Tj7aU {
+    font-size: 5rem;
+    font-weight: bold;
+}
